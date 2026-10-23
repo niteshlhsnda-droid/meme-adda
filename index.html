@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meme Adda — Trend Adda 😂 Daily Hinglish Meme Watch</title>
+<meta name="description" content="Meme Adda's trend dashboard: today's verified meme trends, the Desi reaction-template library, and the production queue. Roz ke memes, desi style.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Meme Adda">
+<meta property="og:title" content="Meme Adda — Trend Adda 😂">
+<meta property="og:description" content="Today's verified meme trends, heat-scored like Patna Pulse scores news. Roz ke memes, desi style.">
+<meta property="og:url" content="https://niteshlhsnda-droid.github.io/meme-adda/">
+<meta name="theme-color" content="#ffd21f">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <img class="mascot" src="assets/mascot.jpg" alt="Meme Adda mascot — laughing kulhad chai cup">
+  <div class="hero-text">
+    <h1>Meme Adda 😂</h1>
+    <p class="tagline">Roz ke memes, desi style — <strong>Trend Adda</strong>: aaj ke verified meme trends, heat-scored.</p>
+    <p class="meta" id="generated-at">Loading trends…</p>
+  </div>
+  <a class="share-btn" id="wa-share-top" href="#" target="_blank" rel="noopener">📲 Share on WhatsApp</a>
+</header>
+
+<main>
+  <section class="card">
+    <h2>🔥 Aaj ke trends</h2>
+    <p class="hint">Heat = kitne independent sources pe hai — 3+ = verified trend, 2 = rising, 1 = watch. Template half-life ~48 hours hai, isliye dashboard ka kaam hai triage.</p>
+    <div id="trends" class="trend-list"><p class="loading">Trends load ho rahe hain…</p></div>
+    <p class="src" id="source-status"></p>
+  </section>
+
+  <section class="card">
+    <h2>🎬 Template library</h2>
+    <p class="hint">Evergreen Desi reaction templates — Hera Pheri, Jethalal, Shark Tank India aur dost. Har template ke saath rights note attached hai.</p>
+    <div id="templates" class="tpl-grid"><p class="loading">Templates load ho rahe hain…</p></div>
+  </section>
+
+  <section class="card">
+    <h2>🎞️ Production queue</h2>
+    <p class="hint">Trend → scripted → built → posted. Posted tabhi mark hota hai jab read-back verify ho jaye — Patna Pulse wala rule.</p>
+    <div id="queue"><p class="loading">Queue load ho rahi hai…</p></div>
+    <p class="hint" id="posted-count"></p>
+  </section>
+
+  <section class="card share-card">
+    <h2>😂 Hasna yahi hai, bhejna bhi yahi hai</h2>
+    <p>Ye dashboard group chat me bhejo — aaj ka trend sabse pehle wahi dekhte hain jo share karte hain.</p>
+    <a class="share-btn big" id="wa-share-bottom" href="#" target="_blank" rel="noopener">📲 WhatsApp pe share karo</a>
+    <p class="links">
+      📸 Instagram: <a href="https://www.instagram.com/memeaddaindia.post/" target="_blank" rel="noopener">@memeaddaindia.post</a>
+      · ▶️ YouTube: <a href="https://www.youtube.com/@memeaddaindia" target="_blank" rel="noopener">@memeaddaindia</a>
+      · 💻 Code: <a href="https://github.com/niteshlhsnda-droid/meme-adda" target="_blank" rel="noopener">github.com/niteshlhsnda-droid/meme-adda</a>
+    </p>
+  </section>
+</main>
+
+<footer>
+  <p>Meme Adda — original Hinglish memes + Shorts, scratch se bante hain. Repost kabhi nahi. 🫖</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
