@@ -5,6 +5,8 @@
 
 Roz ke memes, desi style. Original Hinglish memes + Shorts — scratch se bante hain, repost kabhi nahi.
 
+📖 **How we make memes — [MEME-PLAYBOOK.md](MEME-PLAYBOOK.md)**: trend × movie/TV scene = meme. The full method, scene bank and QC rules.
+
 This repo is Meme Adda's foundation, built the **Patna Pulse way** (founder order, 2026-10-23):
 
 **research → GitHub → install → production** — in that order, no phase skipped.
