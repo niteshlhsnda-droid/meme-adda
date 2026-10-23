@@ -1,0 +1,374 @@
+{
+  "generated_at_ist": "23 Oct 2026, 09:16 AM IST",
+  "generated_by": "watch.py",
+  "seeded": true,
+  "source_status": {
+    "reddit": "failed: r/IndianDankMemes/hot: HTTP Error 403: Blocked",
+    "google_trends_in": "ok",
+    "curated": "ok (5 items)",
+    "seed": "reddit unreachable; templates.json entries added as seeded"
+  },
+  "trend_count": 24,
+  "trends": [
+    {
+      "id": "tradingview",
+      "title": "tradingview",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "nse",
+      "title": "nse",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "upstox-login",
+      "title": "upstox login",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "investing-com",
+      "title": "investing .com",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "gift-nifty-live-today",
+      "title": "gift nifty live today",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "23",
+      "title": "அக்டோபர் 23",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "vijayavani",
+      "title": "vijayavani",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "cnbc-awaaz-live",
+      "title": "cnbc awaaz live",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "lilli-tagger",
+      "title": "lilli tagger",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "zee-business-live",
+      "title": "zee business live",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "sources": [
+        "google-trends-in"
+      ],
+      "kind": "search-trend",
+      "score": 0,
+      "seeded": false,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "pepsi-vs-coke-setup-punisher-no-no-no-no-wait-wait-wait-reac",
+      "title": "Pepsi vs Coke setup -> Punisher 'No no no no, wait wait wait' reaction",
+      "url": "https://youtube.com/shorts/9ReBXNfWFFE",
+      "sources": [
+        "curated"
+      ],
+      "kind": "founder-scene",
+      "score": 0,
+      "seeded": false,
+      "note": "Founder's own example (2026-10-22) of the two-video 'connect the dots' format: everyday setup clip, TV/movie reaction clip as punchline.",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "jethalal-expressions-taarak-mehta-ka-ooltah-chashmah",
+      "title": "Jethalal expressions (Taarak Mehta Ka Ooltah Chashmah)",
+      "url": "https://idiotic.media/most-used-meme-templates/",
+      "sources": [
+        "curated"
+      ],
+      "kind": "evergreen-template",
+      "score": 0,
+      "seeded": false,
+      "note": "Among the most-used Indian meme templates of 2025 per the reset research (idiotic.media template index).",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "hera-pheri-trio-planning-scenes",
+      "title": "Hera Pheri trio planning scenes",
+      "url": "https://knowyourmeme.com/memes/subcultures/hera-pheri-2000-film",
+      "sources": [
+        "curated"
+      ],
+      "kind": "evergreen-template",
+      "score": 0,
+      "seeded": false,
+      "note": "Evergreen Bollywood dialogue-template well; dedicated projects meme every scene of the film (Know Your Meme).",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "uday-shetty-laughing-welcome",
+      "title": "Uday Shetty laughing (Welcome)",
+      "url": "https://idiotic.media/most-used-meme-templates/",
+      "sources": [
+        "curated"
+      ],
+      "kind": "evergreen-template",
+      "score": 0,
+      "seeded": false,
+      "note": "Top-2025 reaction template per the reset research.",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "shark-tank-india-reactions-ashneer-grover-aman-gupta",
+      "title": "Shark Tank India reactions — Ashneer Grover / Aman Gupta",
+      "url": "https://idiotic.media/most-used-meme-templates/",
+      "sources": [
+        "curated"
+      ],
+      "kind": "evergreen-template",
+      "score": 0,
+      "seeded": false,
+      "note": "Current-affairs-adjacent reaction faces; pairs with the news-reactive slot.",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "jethalal-expressions",
+      "title": "Jethalal expressions",
+      "url": "https://idiotic.media/most-used-meme-templates/",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "uday-shetty-laughing-control-uday-control",
+      "title": "Uday Shetty laughing / 'Control Uday, control'",
+      "url": "https://idiotic.media/most-used-meme-templates/",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "hera-pheri-trio-planning",
+      "title": "Hera Pheri trio planning",
+      "url": "https://knowyourmeme.com/memes/subcultures/hera-pheri-2000-film",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "ashneer-grover-yeh-kya-ho-raha-hai",
+      "title": "Ashneer Grover 'yeh kya ho raha hai?'",
+      "url": "https://idiotic.media/most-used-meme-templates/",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "aman-gupta-folded-arms",
+      "title": "Aman Gupta folded arms",
+      "url": "https://idiotic.media/most-used-meme-templates/",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "punisher-no-no-no-no-wait-wait-wait",
+      "title": "Punisher 'No no no no, wait wait wait'",
+      "url": "https://youtube.com/shorts/9ReBXNfWFFE",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "drake-hotline-bling-two-panel",
+      "title": "Drake Hotline Bling (two-panel)",
+      "url": "https://knowyourmeme.com/memes/drakeposting",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "jor-jor-se-bolke-sabko-scheme-bata-de",
+      "title": "'Jor jor se bolke sabko scheme bata de'",
+      "url": "https://www.newspointapp.com/english/trending/15-bollywood-dialogues-that-accidentally-became-meme-templates-rvcj/articleshow/1450482016a8520f311e9448699689ee5c6b2d10",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    },
+    {
+      "id": "beta-tumse-na-ho-payega",
+      "title": "'Beta, tumse na ho payega'",
+      "url": "https://www.newspointapp.com/english/trending/15-bollywood-dialogues-that-accidentally-became-meme-templates-rvcj/articleshow/1450482016a8520f311e9448699689ee5c6b2d10",
+      "sources": [
+        "seeded:reset-research-2026-10-23"
+      ],
+      "kind": "template",
+      "score": 0,
+      "seeded": true,
+      "note": "",
+      "source_count": 1,
+      "heat": 1,
+      "label": "watch"
+    }
+  ]
+}
